@@ -1,0 +1,14 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "要約して下さい。 https://www.ehime-u.ac.jp/data_event/ev_20260127_lib/"
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": []
+  }
+]
