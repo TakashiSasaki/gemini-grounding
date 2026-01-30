@@ -1,0 +1,12 @@
+{
+  "Temperature": 0,
+  "Thinking mode": false,
+  "Structured outputs": false,
+  "Code execution": false,
+  "Function calling": false,
+  "Grounding with Google Search": true,
+  "URL context": true,
+  "Add stop sequence": null,
+  "Output length": 65536,
+  "Top P": 0
+}
