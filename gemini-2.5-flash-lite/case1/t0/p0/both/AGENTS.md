@@ -13,6 +13,10 @@ The three Python scripts are identical. They are configured to make a request to
     -   "URL Context Tool" is **enabled**.
     -   "Grounding by Google Search" is **disabled**.
 
+## Conversation Data (1.json, 2.json, 3.json)
+
+These JSON files (`1.json`, `2.json`, `3.json`) contain predefined conversation histories or prompt structures. These structures are consumed by their corresponding Python scripts (e.g., `1.py` consumes `1.json`) to populate the `contents` parameter for the `generate_content_stream` API calls. They represent the initial turns of a conversation, setting up the context for the model's response.
+
 ## image.png and image.json
 
 -   `image.png` displays a screenshot of a UI with model settings.
